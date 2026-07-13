@@ -79,25 +79,7 @@ I enjoy combining software engineering with artificial intelligence to solve rea
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavan-5905&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-5905&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-5905&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavan-5905&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
